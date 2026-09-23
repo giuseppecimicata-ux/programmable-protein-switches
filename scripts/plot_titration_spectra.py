@@ -8,7 +8,7 @@ import pandas as pd
 # USER INPUT
 # ============================================================================
 
-FILE_PATH = "/Users/giuseppecimicata/Documents/Switch/average_normalized_titration_binder_alpha_triplicate_110826.xlsx"
+FILE_PATH = "/path/to/your/input_file.xlsx"
 
 X_COLUMN = "Wavelength"
 
