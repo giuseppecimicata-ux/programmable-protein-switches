@@ -10,7 +10,7 @@ from scipy.optimize import curve_fit
 # USER INPUT
 # ============================================================================
 
-FILE_PATH = "/Users/giuseppecimicata/Documents/Switch/countertitration.xlsx"
+FILE_PATH = "/path/to/your/input_file.xlsx"
 
 
 SHEET_NAME = 0
